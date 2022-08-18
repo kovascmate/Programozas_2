@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1652615882 source:c:\users\user\documents\cpp\nagyhf\telefonkonyv\main.cpp
+	<iostream>
+	"memtrace.h"
+	"input.h"
+	"filekezeles.h"
+	"lancoltlista.hpp"
+	"logika.h"
+
+1652615882 source:c:\users\user\documents\cpp\nagyhf\telefonkonyv\input.cpp
+	"memtrace.h"
+	"input.h"
+
+1652623386 c:\users\user\documents\cpp\nagyhf\telefonkonyv\input.h
+	"nev.hpp"
+	"lancoltlista.hpp"
+
+1652630970 source:c:\users\user\documents\cpp\nagyhf\telefonkonyv\filekezeles.cpp
+	<fstream>
+	"memtrace.h"
+	"nevjegy.hpp"
+	"filekezeles.h"
+
+1648231470 c:\users\user\documents\cpp\nagyhf\telefonkonyv\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+
+1652615965 source:c:\users\user\documents\cpp\nagyhf\telefonkonyv\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1652625873 c:\users\user\documents\cpp\nagyhf\telefonkonyv\filekezeles.h
+	"lancoltlista.hpp"
+	"kontakt.hpp"
+
+1652626413 c:\users\user\documents\cpp\nagyhf\telefonkonyv\lancoltlista.hpp
+	"nevjegy.hpp"
+	"kontakt.hpp"
+	<iostream>
+	"memtrace.h"
+
+1652620398 c:\users\user\documents\cpp\nagyhf\telefonkonyv\nevjegy.hpp
+	"memtrace.h"
+	"nev.hpp"
+	"string.hpp"
+	"kontakt.hpp"
+	"lancoltlista.hpp"
+
+1652622971 c:\users\user\documents\cpp\nagyhf\telefonkonyv\nev.hpp
+	"memtrace.h"
+	"string.hpp"
+
+1652631872 c:\users\user\documents\cpp\nagyhf\telefonkonyv\string.hpp
+	<string.h>
+	<iostream>
+	"memtrace.h"
+
+1652626874 c:\users\user\documents\cpp\nagyhf\telefonkonyv\kontakt.hpp
+	"memtrace.h"
+
+1652343757 c:\users\user\documents\cpp\nagyhf\telefonkonyv\magan.hpp
+	"kontakt.hpp"
+
+1652343757 c:\users\user\documents\cpp\nagyhf\telefonkonyv\munkahelyi.hpp
+	"kontakt.hpp"
+
+1652376867 source:c:\users\user\documents\cpp\nagyhf\telefonkonyv\nev.cpp
+
+1652615883 source:c:\users\user\documents\cpp\nagyhf\telefonkonyv\string.cpp
+	"memtrace.h"
+	"string.hpp"
+
+1652614350 c:\users\user\documents\cpp\nagyhf\telefonkonyv\logika.h
+	"lancoltlista.hpp"
+	"input.h"
+
+1652615882 source:c:\users\user\documents\cpp\nagyhf\telefonkonyv\logika.cpp
+	"memtrace.h"
+	"logika.h"
+
+1652590663 source:c:\users\user\documents\cpp\nagyhf\telefonkonyv\test.cpp
+
