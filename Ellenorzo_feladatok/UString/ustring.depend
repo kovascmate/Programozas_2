@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1649084453 source:c:\users\user\documents\cpp\ellen\ustring\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1649084453 c:\users\user\documents\cpp\ellen\ustring\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1649084453 source:c:\users\user\documents\cpp\ellen\ustring\string5.cpp
+	<iostream>
+	<cstring>
+	"memtrace.h"
+	"string5.h"
+
+1649084453 c:\users\user\documents\cpp\ellen\ustring\string5.h
+	<iostream>
+
+1649114621 source:c:\users\user\documents\cpp\ellen\ustring\ustring.cpp
+	"ustring.h"
+
+1649114621 c:\users\user\documents\cpp\ellen\ustring\ustring.h
+	"string5.h"
+
+1649113718 source:c:\users\user\documents\cpp\ellen\ustring\ustring_test.cpp
+	<iostream>
+	<sstream>
+	"memtrace.h"
+	"ustring.h"
+	"gtest_lite.h"
+
+1649084453 c:\users\user\documents\cpp\ellen\ustring\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
