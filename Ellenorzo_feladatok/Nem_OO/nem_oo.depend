@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1645989428 source:c:\users\user\documents\cpp\ellen\nem_oo\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1645989428 c:\users\user\documents\cpp\ellen\nem_oo\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1646090223 source:c:\users\user\documents\cpp\ellen\nem_oo\nem_oo.cpp
+	<cstring>
+	<cctype>
+	"nem_oo.h"
+
+1646050373 c:\users\user\documents\cpp\ellen\nem_oo\nem_oo.h
+	<cmath>
+	<iostream>
+	"memtrace.h"
+
+1645989428 source:c:\users\user\documents\cpp\ellen\nem_oo\nem_oo_teszt.cpp
+	<iostream>
+	<cstring>
+	<locale>
+	<windows.h>
+	"nem_oo.h"
+	"max.hpp"
+
+1646081641 c:\users\user\documents\cpp\ellen\nem_oo\max.hpp
+	"nem_oo.h"
+

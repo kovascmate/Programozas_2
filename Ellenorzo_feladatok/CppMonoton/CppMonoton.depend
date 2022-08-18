@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1651445795 source:c:\users\user\documents\cpp\ellen\cppmonoton\monoton_test.cpp
+	<iostream>
+	<csignal>
+	<stdexcept>
+	<string>
+	<vector>
+	<set>
+	<list>
+	<functional>
+	<algorithm>
+	<iterator>
+	<cstdlib>
+	<ctime>
+	"gtest_lite.h"
+	"fancy_iterators.hpp"
+	"monoton.hpp"
+
+1651445795 c:\users\user\documents\cpp\ellen\cppmonoton\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1651445795 c:\users\user\documents\cpp\ellen\cppmonoton\fancy_iterators.hpp
+
+1651531319 c:\users\user\documents\cpp\ellen\cppmonoton\monoton.hpp
+
