@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1648327795 source:c:\users\user\documents\cpp\ellen\cppember\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1648327795 c:\users\user\documents\cpp\ellen\cppember\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1648327795 source:c:\users\user\documents\cpp\ellen\cppember\ember.cpp
+	<cstring>
+	"memtrace.h"
+	"ember.h"
+
+1648467365 c:\users\user\documents\cpp\ellen\cppember\ember.h
+	<cstring>
+	"memtrace.h"
+
+1648327795 source:c:\users\user\documents\cpp\ellen\cppember\embermain.cpp
+	<iostream>
+	<ctime>
+	"ember.h"
+	"hallgato.h"
+	"kutato.h"
+	"gtest_lite.h"
+	"memtrace.h"
+
+1648327795 c:\users\user\documents\cpp\ellen\cppember\hallgato.h
+	<iostream>
+	<string>
+	"ember.h"
+
+1648327795 c:\users\user\documents\cpp\ellen\cppember\kutato.h
+	"ember.h"
+
+1648327795 c:\users\user\documents\cpp\ellen\cppember\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<string>
+	<fstream>
+	"memtrace.h"
+
+1648468046 source:c:\users\user\documents\cpp\ellen\cppember\hallgato.cpp
+	<cstring>
+	"ember.h"
+	"hallgato.h"
+

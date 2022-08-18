@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1650899484 source:c:\users\user\documents\cpp\ellen\cpphetero\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1650899484 c:\users\user\documents\cpp\ellen\cpphetero\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1650899484 source:c:\users\user\documents\cpp\ellen\cpphetero\hetero_test.cpp
+	<iostream>
+	<sstream>
+	"gtest_lite.h"
+	"memtrace.h"
+	"hetero_store.hpp"
+	"testclass.h"
+	"bacterium.h"
+
+1650899484 c:\users\user\documents\cpp\ellen\cpphetero\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1650918487 c:\users\user\documents\cpp\ellen\cpphetero\hetero_store.hpp
+	<iostream>
+	<stdexcept>
+
+1650899484 c:\users\user\documents\cpp\ellen\cpphetero\testclass.h
+	<string>
+
+1650899484 c:\users\user\documents\cpp\ellen\cpphetero\bacterium.h
+	<string>
+
