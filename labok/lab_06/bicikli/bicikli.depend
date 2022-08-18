@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1648808595 source:c:\users\user\documents\cpp\labok\lab_06\bicikli\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1648808595 c:\users\user\documents\cpp\labok\lab_06\bicikli\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+
+1648808595 source:c:\users\user\documents\cpp\labok\lab_06\bicikli\bicikli_teszt0.cpp
+	"memtrace.h"
+	"bicikli.h"
+
+1648815859 c:\users\user\documents\cpp\labok\lab_06\bicikli\bicikli.h
+

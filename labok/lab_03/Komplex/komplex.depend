@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1646159352 source:c:\users\user\documents\cpp\lab_03\komplex\komplex_teszt.cpp
+	<iostream>
+	<sstream>
+	"gtest_lite.h"
+	"elkeszult.h"
+	"komplex.h"
+
+1646159352 c:\users\user\documents\cpp\lab_03\komplex\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<string>
+	<fstream>
+	"memtrace.h"
+
+1646411719 c:\users\user\documents\cpp\lab_03\komplex\elkeszult.h
+
+1646159352 c:\users\user\documents\cpp\lab_03\komplex\komplex.h
+	"elkeszult.h"
+
+1646414754 source:c:\users\user\documents\cpp\lab_03\komplex\komplex.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"komplex.h"
+

@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1648231470 source:c:\users\user\documents\cpp\labok\lab_05\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1648231470 c:\users\user\documents\cpp\labok\lab_05\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+
+1648231470 source:c:\users\user\documents\cpp\labok\lab_05\rendez.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<clocale>
+	<windows.h>
+	"rendez.h"
+	"rendez_u8.h"
+	"string5.h"
+
+1648231470 c:\users\user\documents\cpp\labok\lab_05\rendez.h
+
+1648231470 c:\users\user\documents\cpp\labok\lab_05\rendez_u8.h
+
+1648247875 c:\users\user\documents\cpp\labok\lab_05\string5.h
+	<iostream>
+
+1648231470 source:c:\users\user\documents\cpp\labok\lab_05\string5_test.cpp
+	<iostream>
+	<sstream>
+	<clocale>
+	<windows.h>
+	"memtrace.h"
+	"gtest_lite.h"
+	"string5.h"
+	"rendez.h"
+
+1648231470 c:\users\user\documents\cpp\labok\lab_05\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	"memtrace.h"
+
+1648245773 source:c:\users\user\documents\cpp\labok\lab_05\string5.cpp
+	<iostream>
+	<cstring>
+	"memtrace.h"
+	"string5.h"
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1648733601 source:c:\users\user\documents\cpp\labok\lab_06\kerekpar\main.cpp
+	<iostream>
+	"monocikli.h"
+
+1648808343 c:\users\user\documents\cpp\labok\lab_06\kerekpar\monocikli.h
+	"monocikli.h"
+

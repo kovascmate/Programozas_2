@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1649248567 source:c:\users\user\documents\cpp\labok\lab_07\alakzatlab\alakzat.cpp
+	"alakzat.h"
+
+1649249603 c:\users\user\documents\cpp\labok\lab_07\alakzatlab\alakzat.h
+	<iostream>
+	"memtrace.h"
+	"pont.h"
+	"szin.h"
+
+1649248567 c:\users\user\documents\cpp\labok\lab_07\alakzatlab\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+
+1649248567 c:\users\user\documents\cpp\labok\lab_07\alakzatlab\pont.h
+	<iostream>
+
+1649248567 c:\users\user\documents\cpp\labok\lab_07\alakzatlab\szin.h
+	<iostream>
+
+1649449484 source:c:\users\user\documents\cpp\labok\lab_07\alakzatlab\alakzat_main.cpp
+	<iostream>
+	"szakasz.h"
+	"kor.h"
+	"haromszog.h"
+	"ellipszis.h"
+
+1649248567 c:\users\user\documents\cpp\labok\lab_07\alakzatlab\szakasz.h
+	"alakzat.h"
+
+1649457097 c:\users\user\documents\cpp\labok\lab_07\alakzatlab\kor.h
+	"alakzat.h"
+
+1649449035 c:\users\user\documents\cpp\labok\lab_07\alakzatlab\haromszog.h
+	"alakzat.h"
+
+1649457550 c:\users\user\documents\cpp\labok\lab_07\alakzatlab\ellipszis.h
+	"kor.h"
+
+1649449047 source:c:\users\user\documents\cpp\labok\lab_07\alakzatlab\haromszog.cpp
+	"haromszog.h"
+
+1649248567 source:c:\users\user\documents\cpp\labok\lab_07\alakzatlab\kor.cpp
+	"kor.h"
+
+1649248567 source:c:\users\user\documents\cpp\labok\lab_07\alakzatlab\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1649248567 source:c:\users\user\documents\cpp\labok\lab_07\alakzatlab\pont.cpp
+	"pont.h"
+
+1649452341 source:c:\users\user\documents\cpp\labok\lab_07\alakzatlab\rajztabla.cpp
+	"rajztabla.h"
+
+1649452373 c:\users\user\documents\cpp\labok\lab_07\alakzatlab\rajztabla.h
+	"alakzat.h"
+
+1649248567 source:c:\users\user\documents\cpp\labok\lab_07\alakzatlab\szakasz.cpp
+	"szakasz.h"
+
+1649248567 source:c:\users\user\documents\cpp\labok\lab_07\alakzatlab\szin.cpp
+	"szin.h"
+
+1649450495 source:c:\users\user\documents\cpp\labok\lab_07\alakzatlab\alakzat2_main.cpp
+	<iostream>
+	"szakasz.h"
+	"kor.h"
+	"haromszog.h"
+	"ellipszis.h"
+	"rajztabla.h"
+	"teglalap.h"
+

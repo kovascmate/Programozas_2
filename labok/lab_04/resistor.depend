@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1646836456 source:c:\users\user\documents\cpp\labok\lab_04\resistor.cpp
+	"resistor.h"
+	<limits>
+	<cmath>
+
+1646829425 c:\users\user\documents\cpp\labok\lab_04\resistor.h
+	<iostream>
+	"elkeszult.h"
+
+1646832159 c:\users\user\documents\cpp\labok\lab_04\elkeszult.h
+
+1646662712 source:c:\users\user\documents\cpp\labok\lab_04\resistor_test.cpp
+	<iostream>
+	"resistor.h"
+
+1646828560 source:c:\users\user\documents\cpp\labok\lab_04\resistor_test2.cpp
+	<iostream>
+	<sstream>
+	"gtest_lite.h"
+	"resistor.h"
+
+1646820854 c:\users\user\documents\cpp\labok\lab_04\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<string>
+	<fstream>
+	"memtrace.h"
+
