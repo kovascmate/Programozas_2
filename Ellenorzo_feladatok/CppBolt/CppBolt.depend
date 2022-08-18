@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1649711108 source:c:\users\user\documents\cpp\ellen\cppbolt\datum.cpp
+	<iostream>
+	<sstream>
+	<ctime>
+	<iomanip>
+	"memtrace.h"
+	"datum.h"
+
+1649711108 c:\users\user\documents\cpp\ellen\cppbolt\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1649711108 c:\users\user\documents\cpp\ellen\cppbolt\datum.h
+	<iostream>
+
+1649711108 source:c:\users\user\documents\cpp\ellen\cppbolt\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1648245773 source:c:\users\user\documents\cpp\ellen\cppbolt\string5.cpp
+	<iostream>
+	<cstring>
+	"memtrace.h"
+	"string5.h"
+
+1648247875 c:\users\user\documents\cpp\ellen\cppbolt\string5.h
+	<iostream>
+
