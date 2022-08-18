@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1645282247 source:c:\users\user\documents\cpp\lab_02\string1\memtrace.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1645282247 c:\users\user\documents\cpp\lab_02\string1\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+
+1645524354 source:c:\users\user\documents\cpp\lab_02\string1\string1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"memtrace.h"
+	"string1.h"
+
+1645282247 c:\users\user\documents\cpp\lab_02\string1\string1.h
+
+1645282247 source:c:\users\user\documents\cpp\lab_02\string1\string1_main.c
+	<stdio.h>
+	"memtrace.h"
+	"string1.h"
+

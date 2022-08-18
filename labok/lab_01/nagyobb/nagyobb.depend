@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1645135491 source:c:\users\user\documents\cpp\lab_01\nagyobb\fuggvenyeim.cpp
+	<cmath>
+	<limits>
+	"fuggvenyeim.h"
+
+1645135491 c:\users\user\documents\cpp\lab_01\nagyobb\fuggvenyeim.h
+
+1645136384 source:c:\users\user\documents\cpp\lab_01\nagyobb\nagyobb_main.cpp
+	<iostream>
+	<iomanip>
+	"fuggvenyeim.h"
+
