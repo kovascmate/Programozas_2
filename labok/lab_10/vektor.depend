@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1651876012 source:c:\users\user\documents\cpp\labok\lab_10\vektor_test.cpp
+	<iostream>
+	<algorithm>
+	<functional>
+	<iterator>
+	<iomanip>
+	"compat.hpp"
+	"vektor.hpp"
+	"mystack.hpp"
+
+1651873176 c:\users\user\documents\cpp\labok\lab_10\compat.hpp
+
+1651875965 c:\users\user\documents\cpp\labok\lab_10\vektor.hpp
+	"gen_array_iter3.hpp"
+
+1651873176 c:\users\user\documents\cpp\labok\lab_10\gen_array_iter3.hpp
+	<stdexcept>
+
+1651873176 c:\users\user\documents\cpp\labok\lab_10\mystack.hpp
+

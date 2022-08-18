@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1649807816 source:c:\users\user\documents\cpp\labok\lab_08\generikus1\generikus1_teszt.cpp
+	<iostream>
+	"integer.h"
+	"alaptipus.hpp"
+
+1649805986 c:\users\user\documents\cpp\labok\lab_08\generikus1\integer.h
+
+1649807821 c:\users\user\documents\cpp\labok\lab_08\generikus1\alaptipus.hpp
+

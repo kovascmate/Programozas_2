@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1652210185 source:c:\users\user\documents\cpp\labok\lab_11\diamond\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1652210185 c:\users\user\documents\cpp\labok\lab_11\diamond\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1652210185 source:c:\users\user\documents\cpp\labok\lab_11\diamond\perz_test.cpp
+	"elkeszult.h"
+	<iostream>
+	<sstream>
+	"palkalmazott.h"
+	"pirodistak.h"
+	"gtest_lite.h"
+
+1652476800 c:\users\user\documents\cpp\labok\lab_11\diamond\elkeszult.h
+
+1652210185 c:\users\user\documents\cpp\labok\lab_11\diamond\palkalmazott.h
+	<string>
+	<stdexcept>
+	"alkalmazott.h"
+	"serializable.h"
+
+1652480895 c:\users\user\documents\cpp\labok\lab_11\diamond\alkalmazott.h
+	<iostream>
+	<string>
+	"memtrace.h"
+
+1652210185 c:\users\user\documents\cpp\labok\lab_11\diamond\serializable.h
+	<iostream>
+
+1652477107 c:\users\user\documents\cpp\labok\lab_11\diamond\pirodistak.h
+	<stdexcept>
+	"palkalmazott.h"
+	"irodistak.h"
+
+1652481142 c:\users\user\documents\cpp\labok\lab_11\diamond\irodistak.h
+	<iostream>
+	<string>
+	"alkalmazott.h"
+
+1652210185 c:\users\user\documents\cpp\labok\lab_11\diamond\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<string>
+	<fstream>
+	"memtrace.h"
+
+1652474980 source:c:\users\user\documents\cpp\labok\lab_11\diamond\diamond_test.cpp
+	"elkeszult.h"
+	<iostream>
+	"iroda.h"
+	"alkalmazott.h"
+	"irodistak.h"
+	"memtrace.h"
+	"gtest_lite.h"
+
+1652210185 c:\users\user\documents\cpp\labok\lab_11\diamond\iroda.h
+	<vector>
+	"memtrace.h"
+	"alkalmazott.h"
+
